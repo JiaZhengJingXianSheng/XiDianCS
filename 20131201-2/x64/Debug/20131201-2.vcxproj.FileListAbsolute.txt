@@ -1,0 +1,2 @@
+C:\Users\Quark\Desktop\XDCode(VS)\20131201-2\x64\Debug\20131201-2.exe
+C:\Users\Quark\Desktop\XDCode(VS)\20131201-2\x64\Debug\20131201-2.pdb
