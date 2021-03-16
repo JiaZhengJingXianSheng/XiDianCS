@@ -1,0 +1,4 @@
+﻿  20131203.cpp
+C:\Users\Quark\Desktop\XDCode(VS)\20131203\20131203.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quark\Desktop\XDCode(VS)\20131203\20131203.cpp(32,9): warning C4101: 'max': unreferenced local variable
+  20131203.vcxproj -> C:\Users\Quark\Desktop\XDCode(VS)\20131203\Debug\20131203.exe
